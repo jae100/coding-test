@@ -13,4 +13,3 @@ def solution2(arr):
 
     return answer / len(arr)
 print(solution2(arr))
-
